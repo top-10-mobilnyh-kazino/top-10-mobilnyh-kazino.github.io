@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-10-mobilnyh-kazino.github.io
+Sitemap: https://top-10-mobilnyh-kazino.github.io/sitemap.xml
